@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Occurrences
+from .models import OccurrenceType
 
-admin.site.register(Occurrences)
+admin.site.register(OccurrenceType)
