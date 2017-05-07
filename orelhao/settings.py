@@ -26,7 +26,7 @@ SECRET_KEY = 'w*e$p(w4^6j0hld*@stv)x_kh1hkkqdq!8qryh*729+g=y2k41'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'aqueous-stream-16585.herokuapp.com']
 
 
 # Application definition
