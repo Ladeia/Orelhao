@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #!-*- conding: utf8 -*-
 
 from django.shortcuts import render
