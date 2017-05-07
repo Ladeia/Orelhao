@@ -7,4 +7,4 @@ class OccurrenceTypeAdmin(admin.ModelAdmin):
     def __unicode__(self):
         return self.title; 
 
-admin.site.register(OccurrenceTypeAdmin)
+admin.site.register(OccurrenceType, OccurrenceTypeAdmin)
